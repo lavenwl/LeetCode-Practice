@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ab2edff-6851-45c6-8fdc-4f0b59e321ae" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/laven/leetcode7/ReversInterger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="9" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="26" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/laven/leetcode9/Palindrome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="11" selection-start-line="8" selection-start-column="8" selection-end-line="20" selection-end-column="9" />
+              <folding>
+                <element signature="e#99#100#0" expanded="true" />
+                <element signature="e#141#142#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/laven/leetcode13/RomanToInt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="99" column="43" lean-forward="true" selection-start-line="99" selection-start-column="43" selection-end-line="99" selection-end-column="43" />
+              <folding>
+                <element signature="e#411#428#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/laven/leetcode14/LongestCommonPrefix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="417">
+              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/laven/leetcode20/ValidParentheses.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="44" column="24" lean-forward="true" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#289#300#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="247" column="4" lean-forward="true" selection-start-line="247" selection-start-column="4" selection-end-line="247" selection-end-column="4" />
+              <folding>
+                <element signature="docComment;class#LinkedList#0" />
+                <element signature="e#3049#3204#0" />
+                <element signature="e#3239#3391#0" />
+                <element signature="e#3425#3469#0" />
+                <element signature="e#3425#3501#0" />
+                <element signature="e#3507#3829#0" />
+                <element signature="e#3507#3921#0" />
+                <element signature="e#3927#3971#0" />
+                <element signature="e#3927#4255#0" />
+                <element signature="e#4261#4304#0" />
+                <element signature="e#4261#4578#0" />
+                <element signature="e#4584#4647#0" />
+                <element signature="e#4584#4991#0" />
+                <element signature="e#4997#5046#0" />
+                <element signature="e#4997#5438#0" />
+                <element signature="e#5444#5492#0" />
+                <element signature="e#5444#5882#0" />
+                <element signature="e#5888#5931#0" />
+                <element signature="e#5888#6461#0" />
+                <element signature="e#6122#6159#1" />
+                <element signature="e#6165#6233#1" />
+                <element signature="e#6261#6297#1" />
+                <element signature="e#6303#6371#1" />
+                <element signature="e#6467#6638#0" />
+                <element signature="e#6467#6797#0" />
+                <element signature="e#7135#7322#0" />
+                <element signature="e#7135#7492#0" />
+                <element signature="e#7498#7683#0" />
+                <element signature="e#7498#7850#0" />
+                <element signature="e#7856#7977#0" />
+                <element signature="e#8043#8218#0" />
+                <element signature="e#8282#8709#0" />
+                <element signature="e#8794#8915#0" />
+                <element signature="e#8972#9237#0" />
+                <element signature="e#8972#9315#0" />
+                <element signature="e#9321#9994#0" />
+                <element signature="e#9321#10504#0" />
+                <element signature="e#10056#10262#1" />
+                <element signature="e#10117#10252#1" />
+                <element signature="e#10155#10238#1" />
+                <element signature="e#10268#10476#1" />
+                <element signature="e#10329#10466#1" />
+                <element signature="e#10369#10452#1" />
+                <element signature="e#10510#11155#0" />
+                <element signature="e#11254#12049#0" />
+                <element signature="e#11254#12975#0" />
+                <element signature="e#12324#12385#1" />
+                <element signature="e#12391#12464#1" />
+                <element signature="e#12493#12762#1" />
+                <element signature="e#12790#12826#1" />
+                <element signature="e#12832#12903#1" />
+                <element signature="e#12981#13098#0" />
+                <element signature="e#12981#13646#0" />
+                <element signature="e#13133#13198#0" />
+                <element signature="e#13424#13573#1" />
+                <element signature="e#13690#13947#0" />
+                <element signature="e#13690#14050#0" />
+                <element signature="e#14056#14416#0" />
+                <element signature="e#14056#14606#0" />
+                <element signature="e#14612#15021#0" />
+                <element signature="e#14612#15224#0" />
+                <element signature="e#15230#15639#0" />
+                <element signature="e#15230#15748#0" />
+                <element signature="e#15754#15831#0" />
+                <element signature="e#15934#16051#0" />
+                <element signature="e#16156#16370#0" />
+                <element signature="e#16477#16634#0" />
+                <element signature="e#16640#16799#0" />
+                <element signature="e#16805#16883#0" />
+                <element signature="e#16805#17279#0" />
+                <element signature="e#16989#17125#1" />
+                <element signature="e#17131#17273#1" />
+                <element signature="e#17311#17850#0" />
+                <element signature="e#17311#18327#0" />
+                <element signature="e#17932#18113#1" />
+                <element signature="e#17993#18103#1" />
+                <element signature="e#18119#18302#1" />
+                <element signature="e#18180#18292#1" />
+                <element signature="e#18333#18871#0" />
+                <element signature="e#18333#19353#0" />
+                <element signature="e#18960#19140#1" />
+                <element signature="e#19020#19130#1" />
+                <element signature="e#19146#19328#1" />
+                <element signature="e#19206#19318#1" />
+                <element signature="e#19385#19575#0" />
+                <element signature="e#19385#19680#0" />
+                <element signature="e#19686#19897#0" />
+                <element signature="e#19961#20141#0" />
+                <element signature="e#19961#20254#0" />
+                <element signature="e#20260#20461#0" />
+                <element signature="e#20527#20739#0" />
+                <element signature="e#20830#21039#0" />
+                <element signature="e#20830#21124#0" />
+                <element signature="e#21130#21336#0" />
+                <element signature="e#21130#21419#0" />
+                <element signature="e#21425#21686#0" />
+                <element signature="e#21425#21797#0" />
+                <element signature="e#21803#22170#0" />
+                <element signature="e#22176#22423#0" />
+                <element signature="e#22176#22541#0" />
+                <element signature="e#22913#23187#0" />
+                <element signature="e#23248#23679#0" />
+                <element signature="e#23742#24109#0" />
+                <element signature="e#24200#24566#0" />
+                <element signature="e#24200#25088#0" />
+                <element signature="e#24642#24847#1" />
+                <element signature="e#24702#24837#1" />
+                <element signature="e#24740#24823#1" />
+                <element signature="e#24853#25060#1" />
+                <element signature="e#24913#25050#1" />
+                <element signature="e#24953#25036#1" />
+                <element signature="e#25094#26214#0" />
+                <element signature="e#25094#26343#0" />
+                <element signature="e#26349#29102#0" />
+                <element signature="e#26557#26721#0" />
+                <element signature="e#26814#27086#0" />
+                <element signature="e#27180#27466#0" />
+                <element signature="e#27632#28058#0" />
+                <element signature="e#28068#28262#0" />
+                <element signature="e#28272#28545#0" />
+                <element signature="e#28555#28932#0" />
+                <element signature="e#28727#28884#1" />
+                <element signature="e#28942#29096#0" />
+                <element signature="e#29108#29362#0" />
+                <element signature="e#29208#29356#0" />
+                <element signature="e#29368#29397#0" />
+                <element signature="e#29496#29575#0" />
+                <element signature="e#29496#29921#0" />
+                <element signature="e#29927#30167#0" />
+                <element signature="e#30011#30072#0" />
+                <element signature="e#30110#30161#0" />
+                <element signature="e#30173#30364#0" />
+                <element signature="e#30173#30733#0" />
+                <element signature="e#30739#31316#0" />
+                <element signature="e#30739#31529#0" />
+                <element signature="e#31535#33529#0" />
+                <element signature="e#31535#33979#0" />
+                <element signature="e#34056#34381#0" />
+                <element signature="e#34056#34766#0" />
+                <element signature="e#34772#34886#0" />
+                <element signature="e#34772#35317#0" />
+                <element signature="e#35323#35987#0" />
+                <element signature="e#36105#36168#0" />
+                <element signature="e#36105#39343#0" />
+                <element signature="e#36711#36899#0" />
+                <element signature="e#36909#37338#0" />
+                <element signature="e#37041#37306#1" />
+                <element signature="e#37139#37292#1" />
+                <element signature="e#37348#37402#0" />
+                <element signature="e#37412#38080#0" />
+                <element signature="e#37548#38045#1" />
+                <element signature="e#38090#38673#0" />
+                <element signature="e#38306#38551#1" />
+                <element signature="e#38384#38507#1" />
+                <element signature="e#38683#39204#0" />
+                <element signature="e#38883#39168#1" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/laven/ReversInterger.java" />
+        <option value="$PROJECT_DIR$/src/com/laven/leetcode7/ReversInterger.java" />
+        <option value="$PROJECT_DIR$/src/com/laven/leetcode9/Palindrome.java" />
+        <option value="$PROJECT_DIR$/src/com/laven/leetcode13/RomanToInt.java" />
+        <option value="$PROJECT_DIR$/src/com/laven/leetcode14/LongestCommonPrefix.java" />
+        <option value="$PROJECT_DIR$/src/com/laven/leetcode20/ValidParentheses.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="58" />
+    <option name="y" value="23" />
+    <option name="width" value="1862" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="laven" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="laven" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode13" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.laven" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ValidParentheses">
+    <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.laven.leetcode14.LongestCommonPrefix" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.laven.leetcode14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.laven.leetcode9.Palindrome" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.laven.leetcode9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReversInterger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.laven.leetcode7.ReversInterger" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.laven.leetcode7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RomanToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.laven.leetcode13.RomanToInt" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.laven.leetcode13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.laven.leetcode20.ValidParentheses" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.laven.leetcode20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ValidParentheses" />
+        <item itemvalue="Application.LongestCommonPrefix" />
+        <item itemvalue="Application.RomanToInt" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.ReversInterger" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ab2edff-6851-45c6-8fdc-4f0b59e321ae" name="Default Changelist" comment="" />
+      <created>1577690584204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577690584204</updated>
+      <workItem from="1577690596354" duration="15759000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15759000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="53" y="23" width="1867" height="1057" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17479452" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32953367" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="MyBatis Log" />
+      <window_info anchor="bottom" id="Messages" weight="0.32953367" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32953367" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/laven/leetcode13/RomanToInt.java</url>
+          <line>106</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/laven/leetcode7/ReversInterger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="26" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/laven/leetcode9/Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="11" selection-start-line="8" selection-start-column="8" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <element signature="e#99#100#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="657" column="18" selection-start-line="657" selection-start-column="18" selection-end-line="657" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/laven/leetcode13/RomanToInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="99" column="43" lean-forward="true" selection-start-line="99" selection-start-column="43" selection-end-line="99" selection-end-column="43" />
+          <folding>
+            <element signature="e#411#428#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/laven/leetcode14/LongestCommonPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="247" column="4" lean-forward="true" selection-start-line="247" selection-start-column="4" selection-end-line="247" selection-end-column="4" />
+          <folding>
+            <element signature="docComment;class#LinkedList#0" />
+            <element signature="e#3049#3204#0" />
+            <element signature="e#3239#3391#0" />
+            <element signature="e#3425#3469#0" />
+            <element signature="e#3425#3501#0" />
+            <element signature="e#3507#3829#0" />
+            <element signature="e#3507#3921#0" />
+            <element signature="e#3927#3971#0" />
+            <element signature="e#3927#4255#0" />
+            <element signature="e#4261#4304#0" />
+            <element signature="e#4261#4578#0" />
+            <element signature="e#4584#4647#0" />
+            <element signature="e#4584#4991#0" />
+            <element signature="e#4997#5046#0" />
+            <element signature="e#4997#5438#0" />
+            <element signature="e#5444#5492#0" />
+            <element signature="e#5444#5882#0" />
+            <element signature="e#5888#5931#0" />
+            <element signature="e#5888#6461#0" />
+            <element signature="e#6122#6159#1" />
+            <element signature="e#6165#6233#1" />
+            <element signature="e#6261#6297#1" />
+            <element signature="e#6303#6371#1" />
+            <element signature="e#6467#6638#0" />
+            <element signature="e#6467#6797#0" />
+            <element signature="e#7135#7322#0" />
+            <element signature="e#7135#7492#0" />
+            <element signature="e#7498#7683#0" />
+            <element signature="e#7498#7850#0" />
+            <element signature="e#7856#7977#0" />
+            <element signature="e#8043#8218#0" />
+            <element signature="e#8282#8709#0" />
+            <element signature="e#8794#8915#0" />
+            <element signature="e#8972#9237#0" />
+            <element signature="e#8972#9315#0" />
+            <element signature="e#9321#9994#0" />
+            <element signature="e#9321#10504#0" />
+            <element signature="e#10056#10262#1" />
+            <element signature="e#10117#10252#1" />
+            <element signature="e#10155#10238#1" />
+            <element signature="e#10268#10476#1" />
+            <element signature="e#10329#10466#1" />
+            <element signature="e#10369#10452#1" />
+            <element signature="e#10510#11155#0" />
+            <element signature="e#11254#12049#0" />
+            <element signature="e#11254#12975#0" />
+            <element signature="e#12324#12385#1" />
+            <element signature="e#12391#12464#1" />
+            <element signature="e#12493#12762#1" />
+            <element signature="e#12790#12826#1" />
+            <element signature="e#12832#12903#1" />
+            <element signature="e#12981#13098#0" />
+            <element signature="e#12981#13646#0" />
+            <element signature="e#13133#13198#0" />
+            <element signature="e#13424#13573#1" />
+            <element signature="e#13690#13947#0" />
+            <element signature="e#13690#14050#0" />
+            <element signature="e#14056#14416#0" />
+            <element signature="e#14056#14606#0" />
+            <element signature="e#14612#15021#0" />
+            <element signature="e#14612#15224#0" />
+            <element signature="e#15230#15639#0" />
+            <element signature="e#15230#15748#0" />
+            <element signature="e#15754#15831#0" />
+            <element signature="e#15934#16051#0" />
+            <element signature="e#16156#16370#0" />
+            <element signature="e#16477#16634#0" />
+            <element signature="e#16640#16799#0" />
+            <element signature="e#16805#16883#0" />
+            <element signature="e#16805#17279#0" />
+            <element signature="e#16989#17125#1" />
+            <element signature="e#17131#17273#1" />
+            <element signature="e#17311#17850#0" />
+            <element signature="e#17311#18327#0" />
+            <element signature="e#17932#18113#1" />
+            <element signature="e#17993#18103#1" />
+            <element signature="e#18119#18302#1" />
+            <element signature="e#18180#18292#1" />
+            <element signature="e#18333#18871#0" />
+            <element signature="e#18333#19353#0" />
+            <element signature="e#18960#19140#1" />
+            <element signature="e#19020#19130#1" />
+            <element signature="e#19146#19328#1" />
+            <element signature="e#19206#19318#1" />
+            <element signature="e#19385#19575#0" />
+            <element signature="e#19385#19680#0" />
+            <element signature="e#19686#19897#0" />
+            <element signature="e#19961#20141#0" />
+            <element signature="e#19961#20254#0" />
+            <element signature="e#20260#20461#0" />
+            <element signature="e#20527#20739#0" />
+            <element signature="e#20830#21039#0" />
+            <element signature="e#20830#21124#0" />
+            <element signature="e#21130#21336#0" />
+            <element signature="e#21130#21419#0" />
+            <element signature="e#21425#21686#0" />
+            <element signature="e#21425#21797#0" />
+            <element signature="e#21803#22170#0" />
+            <element signature="e#22176#22423#0" />
+            <element signature="e#22176#22541#0" />
+            <element signature="e#22913#23187#0" />
+            <element signature="e#23248#23679#0" />
+            <element signature="e#23742#24109#0" />
+            <element signature="e#24200#24566#0" />
+            <element signature="e#24200#25088#0" />
+            <element signature="e#24642#24847#1" />
+            <element signature="e#24702#24837#1" />
+            <element signature="e#24740#24823#1" />
+            <element signature="e#24853#25060#1" />
+            <element signature="e#24913#25050#1" />
+            <element signature="e#24953#25036#1" />
+            <element signature="e#25094#26214#0" />
+            <element signature="e#25094#26343#0" />
+            <element signature="e#26349#29102#0" />
+            <element signature="e#26557#26721#0" />
+            <element signature="e#26814#27086#0" />
+            <element signature="e#27180#27466#0" />
+            <element signature="e#27632#28058#0" />
+            <element signature="e#28068#28262#0" />
+            <element signature="e#28272#28545#0" />
+            <element signature="e#28555#28932#0" />
+            <element signature="e#28727#28884#1" />
+            <element signature="e#28942#29096#0" />
+            <element signature="e#29108#29362#0" />
+            <element signature="e#29208#29356#0" />
+            <element signature="e#29368#29397#0" />
+            <element signature="e#29496#29575#0" />
+            <element signature="e#29496#29921#0" />
+            <element signature="e#29927#30167#0" />
+            <element signature="e#30011#30072#0" />
+            <element signature="e#30110#30161#0" />
+            <element signature="e#30173#30364#0" />
+            <element signature="e#30173#30733#0" />
+            <element signature="e#30739#31316#0" />
+            <element signature="e#30739#31529#0" />
+            <element signature="e#31535#33529#0" />
+            <element signature="e#31535#33979#0" />
+            <element signature="e#34056#34381#0" />
+            <element signature="e#34056#34766#0" />
+            <element signature="e#34772#34886#0" />
+            <element signature="e#34772#35317#0" />
+            <element signature="e#35323#35987#0" />
+            <element signature="e#36105#36168#0" />
+            <element signature="e#36105#39343#0" />
+            <element signature="e#36711#36899#0" />
+            <element signature="e#36909#37338#0" />
+            <element signature="e#37041#37306#1" />
+            <element signature="e#37139#37292#1" />
+            <element signature="e#37348#37402#0" />
+            <element signature="e#37412#38080#0" />
+            <element signature="e#37548#38045#1" />
+            <element signature="e#38090#38673#0" />
+            <element signature="e#38306#38551#1" />
+            <element signature="e#38384#38507#1" />
+            <element signature="e#38683#39204#0" />
+            <element signature="e#38883#39168#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/laven/leetcode20/ValidParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="44" column="24" lean-forward="true" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#289#300#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>leetcode</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19876325" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
