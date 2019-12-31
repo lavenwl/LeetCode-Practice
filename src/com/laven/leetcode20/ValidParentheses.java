@@ -58,4 +58,20 @@ public class ValidParentheses {
         }
         return false;
     }
+
+    /**
+     * 高效算法
+     * @param s
+     * @return
+     */
+    public static boolean isValid2(String s) {
+        if (s.length() % 2 != 0) {
+            return false;
+        }
+
+        char charArray[] = s.toCharArray();
+
+
+        return false;
+    }
 }
